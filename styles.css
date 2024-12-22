@@ -27,7 +27,11 @@ footer p {
     font-size: 16px;
 }
 
-img.responsive-img {
+img {
     max-width: 100%;
     height: auto;
+}
+
+.card {
+    margin-top: 20px;
 }
