@@ -34,4 +34,17 @@ img {
 
 .card {
     margin-top: 20px;
+    border-radius: 8px;
+}
+
+.card-image img {
+    border-radius: 8px 8px 0 0;
+}
+
+.card-content {
+    padding: 20px;
+}
+
+.tabs a {
+    font-size: 16px;
 }
